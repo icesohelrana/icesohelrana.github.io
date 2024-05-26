@@ -26,7 +26,7 @@ Work experience
 * Machine Learning Engineer, Dynamic Crowd Measurement, AU, 2022-2023
   * Developed a 2-dimensional lidar based crowd counting solution that can count people and their direction in live setup. These solutions were deployed in major events like Dutch grand prix, Melbourne Cup, Moto grand prix etc.
   * Developed a real-time CCTV camera based people counting solution in jetson nano edge device.
-  * Developed a multi-modal sentiment prediction system that takes CCTV camera feed, social feed (i.e twitter stream) and weather data as input to a transformer backbone architecture and predicts crowd sentiments of an event. The Sydney Olympic Park Authority has implemented this system to monitor crowd sentiment during and post-events, with a project valued at $1.056 million. (project details)
+  * Developed a multi-modal sentiment prediction system that takes CCTV camera feed, social feed (i.e twitter stream) and weather data as input to a transformer backbone architecture and predicts crowd sentiments of an event. The Sydney Olympic Park Authority has implemented this system to monitor crowd sentiment during and post-events. [project details](https://www.nsw.gov.au/business-and-economy/smart-nsw-case-study-library/listings/creating-safer-crowded-places)
   * Improved and deployed AI model for different crowd measurement task (e.g. crowd density, flow and sentiment) in different events.
   * Trained, tested, validated computer vision-based CNN models and deployed those model using docker in AWS cloud/on-premise setup with maintaining MLOps best practices (e.g. model and data version management through S3, model serving, model monitoring and retraining etc).
   * Designed python SDK based kafka consumer-producer along with AWS MKS for asynchronous data streaming.
@@ -60,9 +60,18 @@ Technical Skills
   * Docker, Kubeflow, MLflow, github action and bitbucket CI/CD pipeline, argflow, jenkins
 * Extensive research and industry background of training Convolutional Neural Network (CNN) and Transformers across various tasks such as image classification. people tracking, eye tracking, segmentation, action recognition, multitask modeling, multimodal learning, text classification etc.
 * Experienced in designing MLOps pipeline for model training, serving, monitoring, managing data drift, automated retraining.
-* Proficient in diverse data science and machine learning tasks, including data analysis, causal inference, regression, k-mean clustering, Boosting algorithms etc.
+* Proficient in diverse data science and machine learning tasks, including data analysis, causal inference, regression, k-mean clustering, Boosting algorithms, ensamble learning etc.
 
-Publications
+Other Skills:
+======
+* Working experience in result-driven and forward thinking work culture. 
+* Enthusistic about learning and applying new technologies.
+* Collaboration experience and effective communication experience with diverse teams and a wide range of stakeholders both inside and outside the organization.
+* Experience in leading teams, taking initiative, providing guidance, and upskilling both the team and myself.
+* Accustomed to maintaining a daily schedule that includes attending stand-ups, brainstorming sessions, consulting with team members on technical decisions, performing code reviews, debugging, and handling pull requests.
+* Enthusiastic about research, innovating new product ideas, and building proof of concepts.
+
+
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

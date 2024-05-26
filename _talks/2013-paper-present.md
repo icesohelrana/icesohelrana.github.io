@@ -3,7 +3,7 @@ title: "Eye Detection And Iris Center Tracking With Eyelashes Occlusion Correcti
 collection: talks
 type: "Conference"
 # permalink: /talks/2013-03-01-tutorial-1
-venue: "Sudan University of Science and Technology, Khartoum, Sudan"
+venue: "Sudan University of Science and Technology"
 date: 2023-12-18
 location: "Khartoum, Sudan"
 ---

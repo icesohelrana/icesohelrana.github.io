@@ -3,7 +3,7 @@ title: "(A workshop on deep learning and computer vision) Deep learning in a nut
 collection: talks
 type: "Workshop"
 # permalink: /talks/2013-03-01-tutorial-1
-venue: "Islamic University, Kushtia, Bangladesh"
+venue: "Islamic University"
 date: 2020-10-06
 location: "Kushtia, Banngladesh"
 ---
