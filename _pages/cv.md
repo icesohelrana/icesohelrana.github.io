@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, La Trobe University, 2023
   * Thesis title: Person Detection and Tracking in Dense Team Sports Scenes
-  * Description: I designed tracking algorithms for team sports such as Hockey, Netball,    Volleyball etc. In addition, I developed models for team action recognition using players pose data. During my PhD, I obtained vast experience of training and experimenting with different neural network model which includes Convolutional neural networks, Recurrent Neural Networks, Transformer and many more. This PhD was funded by Australian Institute of Sport.
+  * Description: During my PhD, I designed tracking algorithms for team sports such as hockey, netball, and volleyball. My work included developing models for team action recognition using player pose data. This experience allowed me to train and experiment with a variety of neural network models, including convolutional neural networks, recurrent neural networks, transformers, and more. This PhD was funded by Australian Institute of Sport.
 * M.Sc. in Information and Communication Engineering Islamic University, Kushtia, Bangladesh, 2012
   * Thesis Title: Improvement of Hijacking Problem for Multi-Target Tracking with Particle Filter
   * Result: 3.57 out of 4.00 (1st Place-out of 40 students)
