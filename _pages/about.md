@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "ABOUT ME"
+# title: "ABOUT ME"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p style="text-align: justify; font-family: Arial, sans-serif;">I am a researcher and engineer with a background in computer science, specializing in computer vision, natural language processing, deep learning, conventional machine learning, and cloud computing. I addressed critical challenges in video based detection and tracking, with designing new heuristic algorithms for crowded scenes. I am enthusiastic about solving real-life problem and have experience of developing scalable end-to-end ML solutions, following MLOps best practices along with deploying models on cloud infrastructure. My prior engineering work includes people tracking solution using LiDAR/camera sensor, developing multimodal models, and analyzing crowd and health data etc.
+<p style="text-align: justify; font-family: Arial, sans-serif;">I am a researcher and engineer with a background in computer science, specialized in computer vision, natural language processing, deep learning, conventional machine learning, and cloud computing. I addressed critical challenges in video based detection and tracking by designing new heuristic algorithms for crowded scenes. I am enthusiastic about solving real-life problem and have experience of developing scalable end-to-end ML solutions by following MLOps best practices with cloud infrastructure. My prior engineering work includes people tracking solution using LiDAR/camera sensor, developing multimodal models, and analyzing crowd and health data etc.
 </p>
 
 More about myself
