@@ -58,6 +58,8 @@ Technical Skills
   * Kubernetes (Deployment, Auto scaling, Load Balancing), Apache Kafka, Cassandra, Snowflakes
 * **Workflow and package management**
   * Docker, Kubeflow, MLflow, github action and bitbucket CI/CD pipeline, argflow, jenkins
+* **Documentation**
+  * Latex, Inkscape for drawing, JIRA confuence page etc
 * Extensive research and industry background of training Convolutional Neural Network (CNN) and Transformers across various tasks such as image classification. people tracking, eye tracking, segmentation, action recognition, multitask modeling, multimodal learning, text classification etc.
 * Experienced in designing MLOps pipeline for model training, serving, monitoring, managing data drift, automated retraining.
 * Proficient in diverse data science and machine learning tasks, including data analysis, causal inference, regression, k-mean clustering, Boosting algorithms, ensamble learning etc.
