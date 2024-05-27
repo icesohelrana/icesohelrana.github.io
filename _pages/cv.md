@@ -73,10 +73,10 @@ Other Skills:
 
 Achievements:
 ======
-•	La Trobe University Graduate Research Scholarship for PhD (jointly funded by La trobe university and Australian Institute of Sport)
-•	Obtained scholarship for holding first position at B.Sc. and M.Sc. in order of merit. 
-•	Completed Stanford online Machine Learning course (conducted by Andrew Ng) and obtained the certificate.
-•	Attended and held a position in National Collegiate Programming Contest [NCPC] 2011 at Dhaka University, Bangladesh.
+* La Trobe University Graduate Research Scholarship for PhD (jointly funded by La trobe university and Australian Institute of Sport)
+* Obtained scholarship for holding first position at B.Sc. and M.Sc. in order of merit. 
+* Completed Stanford online Machine Learning course (conducted by Andrew Ng) and obtained the certificate.
+* Attended and held a position in National Collegiate Programming Contest [NCPC] 2011 at Dhaka University, Bangladesh.
 
 
 Publications:
