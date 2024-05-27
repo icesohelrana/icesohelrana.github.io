@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify; font-family: Arial, sans-serif;">I am a researcher and engineer with a background in computer science, specialized in computer vision, natural language processing, deep learning, conventional machine learning, and cloud computing. I addressed critical challenges in video based detection and tracking by designing new heuristic algorithms for crowded scenes. I am enthusiastic about solving real-life problem and have experience of developing scalable end-to-end ML solutions by following MLOps best practices with cloud infrastructure. My prior engineering work includes people tracking solution using LiDAR/camera sensor, developing multimodal models, and analyzing crowd and health data etc.
+<p style="text-align: justify; font-family: Arial, sans-serif;">I am a researcher and engineer with a background in computer science, specialized in computer vision, natural language processing, deep learning, conventional machine learning, and cloud computing. I addressed critical challenges in video based tracking by model driven heuristic algorithm for crowded scenes. I am enthusiastic about solving real-life problem and have experience of developing scalable end-to-end ML solutions by following MLOps best practices and using cloud infrastructure. My previous successful ML projects include a people tracking solution using LiDAR/camera sensors, developing multimodal predictive models, analyzing crowd and health data, video processing in edge devices etc.
 </p>
 
 More about myself
