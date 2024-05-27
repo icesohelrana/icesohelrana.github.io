@@ -10,4 +10,4 @@ location: "Melbourne, Australia"
 
 [Slides](https://www.dropbox.com/scl/fi/yc72oen0f4vcgrhkpwfet/pre-submission-presentation.pptx?rlkey=tcwu6m8e6vzcxuwbsng2u34xe&st=m79r2zna&dl=0)
 
-Successfully defended my PhD thesis on 2023. I presented my work of player detection and tracking in team sports.
+Successfully defended my PhD thesis on 2023, presented my work of player detection and tracking.

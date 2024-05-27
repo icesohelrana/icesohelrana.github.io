@@ -10,4 +10,4 @@ location: "Kushtia, Banngladesh"
 
 [Slides](https://docs.google.com/presentation/d/15zdmzcsTlWJTkKBCqDN8Ef50OKlfene9/edit?usp=sharing&ouid=107802786985079478131&rtpof=true&sd=true)
 
-In this workshop, students learns different concepts of computer vision and image processing tasks and obtain hands-on experience in training deep various learning models.
+Organised the workshop. In this workshop, students learns different concepts of computer vision and image processing tasks and obtain hands-on experience in training deep various learning models.
